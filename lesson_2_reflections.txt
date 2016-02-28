@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 The staging area differs in that it allows you to not really commit everything to the repository or directory. Thus allowing you to make any changes before actually committing any changes.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+By using git log and then git status to make sure everything makes sense and to be able to double check my work before making a final commit.
