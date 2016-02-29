@@ -17,3 +17,7 @@ They would be helpful if you had different versions of a file or experimenting w
 How do the diagrams help you visualize the branch structure?
 
 It helps show me where everything goes and the order of the branch. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It mixes the commits and sorts them by the time created. It also allows us to have one branch instead of 2. It is represented in the diagram that way in order to see the different branches and how they merge together as one.
