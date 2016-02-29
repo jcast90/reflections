@@ -21,3 +21,9 @@ It helps show me where everything goes and the order of the branch.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It mixes the commits and sorts them by the time created. It also allows us to have one branch instead of 2. It is represented in the diagram that way in order to see the different branches and how they merge together as one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: it automatically does it for you so you don't have to go through a bunch of code to make sure it's all correct and does it for you.
+
+cons: some commits may be contradicting or mess up files by git guessing.
