@@ -5,3 +5,7 @@ When you want to share your files or collaborate with other people.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 That way you can be in control of what is on your remote repository, only pulling the important files.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Being able to view it when offline.
